@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Open Weather App</string>
+
+    <string name="welcome_launch_text">Welcome</string>
+
+    <string name="empty_other_error">Other error</string>
+    <string name="no_network_error">Network is not available</string>
+    <string name="no_local_error">We don\'t have any last local data. Try loading information from network</string>
+    <string name="no_location_error">Error get location information</string>
+    <string name="no_city_name_error">City name is required</string>
+
+    <string name="search_by_city_name_text">Search by city name</string>
+    <string name="search_by_current_location_text">Search by current location</string>
+    <string name="city_name_hint">City name</string>
+    <string name="update_btn_text">Update</string>
+
+    <string name="desc_text">%1$s - %2$s</string>
+    <string name="temp_text">%1$s °C</string>
+    <string name="humidity_text">Humidity\n%1$s %%</string>
+    <string name="pressure_text">Pressure\n%1$s hPa</string>
+    <string name="wind_deg_text">Wind degrees\n%1$s degrees</string>
+    <string name="wind_speed_text">Wind speed\n%1$s m/s</string>
+    <string name="sunrise_text">Sunrise\n%1$s</string>
+    <string name="sunset_text">Sunset\n%1$s</string>
+
+
+</resources>
